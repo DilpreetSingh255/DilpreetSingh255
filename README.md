@@ -49,3 +49,26 @@
 📌 Software Development
 📌 Git & GitHub
 📌 Building Real-World Projects
+---
+
+## 🧩 Coding & Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/DILPREET_SINGH113/">
+    <img src="https://img.shields.io/badge/LeetCode-DILPREET__SINGH113-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dilpreet-singh-216202359/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dilpreet%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/DILPREET_SINGH113/">
+    <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
