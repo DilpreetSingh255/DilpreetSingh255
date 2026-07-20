@@ -49,7 +49,9 @@
 📌 Software Development
 📌 Git & GitHub
 📌 Building Real-World Projects
+```
 ---
+
 
 ## 🧩 Coding & Problem Solving
 
